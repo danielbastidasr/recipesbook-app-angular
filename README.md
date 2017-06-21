@@ -1,6 +1,6 @@
 # RecipesApp
 
-    This is a Basic project using directives, models, services, different components and even Usin validators in the Forms( Template-driven, Reactive).
+    This is a Basic project using directives, models, services, different components and even Using validators in the Forms( Template-driven, Reactive).
 
 ## Development server
 
