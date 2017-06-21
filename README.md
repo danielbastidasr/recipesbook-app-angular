@@ -1,6 +1,6 @@
 # RecipesApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.4.
+    This is a Basic project using directives, models, services, different components and even Usin validators in the Forms( Template-driven, Reactive).
 
 ## Development server
 
