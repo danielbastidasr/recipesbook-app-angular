@@ -1,3 +1,16 @@
-<h1>
-  {{title}}
-</h1>
+<app-header> </app-header>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <!-- This is without routing
+        <app-recipes *ngIf="loadedFeature === 'recipe'"> </app-recipes>
+        <app-shopping-list *ngIf="loadedFeature === 'shop-list'"> </app-shopping-list>
+      -->
+      <!-- This new approach is with routing-->
+
+      <router-outlet></router-outlet>
+
+    </div>
+  </div>
+</div>
